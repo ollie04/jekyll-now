@@ -3,13 +3,10 @@ layout: page
 title: About
 permalink: /about/
 ---
-
-Some information about you!
-
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Thank you for visiting my blog page about my weekly IT lessons at DCGS - I hope you enjoyed reading it and visit again soon...
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+oliver.sherwin@challoners.org
