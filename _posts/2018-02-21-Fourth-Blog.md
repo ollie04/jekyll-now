@@ -53,7 +53,7 @@ published: true
     <th>What will I change for next time? How will I improve my learning?</th>
   </tr>
   <tr>
-    <td>next time, I will be a bit more cautious and think about every click of a button before I make it in order to assure that it is a logical decision and not a stupid one.</td>
+    <td>Next time, I will be a bit more cautious and think about every click of a button before I make it in order to assure that it is a logical decision and not a stupid one.</td>
   </tr>
 </table>
 
